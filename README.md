@@ -1,6 +1,6 @@
 # Zerodha Landing Page
 
-This is a simple landing page for the Zerodha app. You can visit the deployed page by clicking on this link: [https://zerodha-landing-page.vercel.app/]
+This is a simple landing page for the Zerodha app.
 
 ## About the Project
 
